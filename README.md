@@ -1,5 +1,7 @@
 # XivTech
-This is my Kubernetes DevOps Hiring Assignment. The below are my commands
+This is my Kubernetes DevOps Hiring Assignment. I have created a sample html file. This application is deployed using a deployment and is made available in the internet through a service.
+
+The below are my commands
 
 Get the nodes: 
 ``` kubectl get nodes```
